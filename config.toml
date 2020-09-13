@@ -14,3 +14,4 @@ baseurl = "himanshu1494.github.io/"
 
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
+font ="cascadia code pl"

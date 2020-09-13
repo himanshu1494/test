@@ -1,0 +1,16 @@
+# Title of your site
+title = "Himanshu Rai"
+
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "himanshu1494.github.io/"
+
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+
+############################
+## Advanced options below ##
+############################
+
+# Name of Academic theme folder in `themes/`.
+theme = "academic"
